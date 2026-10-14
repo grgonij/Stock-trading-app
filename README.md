@@ -123,11 +123,3 @@ app/src/main/java/com/example/projekt/
 │   └── viewmodel/      # PortfolioViewModel
 └── MainActivity.kt
 ```
-
----
-
-## Student
-
-**Veleučilište u Bjelovaru**  
-Kolegij: Programiranje mobilnih aplikacija  
-Akademska godina: 2024./2025.

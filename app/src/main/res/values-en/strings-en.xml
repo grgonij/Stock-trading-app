@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values-en/strings.xml  — ENGLISH -->
+<resources>
+    <string name="app_name">Stock Trading</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- HomeScreen -->
+    <string name="home_total_value">Total portfolio value</string>
+    <string name="home_today">Today</string>
+    <string name="home_my_holdings">MY HOLDINGS</string>
+    <string name="home_empty_title">Portfolio is empty</string>
+    <string name="home_empty_subtitle">Add your first stock to get started</string>
+    <string name="home_add_stock">Add stock</string>
+    <string name="home_add_content_desc">Add stock</string>
+
+    <!-- StockDetailScreen -->
+    <string name="detail_back">Back</string>
+    <string name="detail_not_found">Stock not found</string>
+    <string name="detail_shares">Shares</string>
+    <string name="detail_avg_price">Avg. price</string>
+    <string name="detail_total">Total</string>
+    <string name="detail_buy">Buy</string>
+    <string name="detail_sell">Sell</string>
+    <string name="detail_history_title">TRANSACTION HISTORY</string>
+    <string name="detail_no_transactions">No transactions yet</string>
+    <string name="detail_delete">Delete</string>
+    <string name="detail_shares_format">%.4f shares</string>
+
+    <!-- TradeDialog -->
+    <string name="trade_buy_title">Buy %s</string>
+    <string name="trade_sell_title">Sell %s</string>
+    <string name="trade_shares_label">Number of shares</string>
+    <string name="trade_price_label">Price (USD)</string>
+    <string name="trade_note_label">Note (optional)</string>
+    <string name="trade_confirm_buy">Buy</string>
+    <string name="trade_confirm_sell">Sell</string>
+    <string name="trade_cancel">Cancel</string>
+    <string name="trade_error_shares">Enter a valid number of shares</string>
+    <string name="trade_error_price">Enter a valid price</string>
+
+    <!-- AddStockScreen -->
+    <string name="add_title">Add stock</string>
+    <string name="add_subtitle">Enter stock details</string>
+    <string name="add_ticker">Ticker (e.g. AAPL)</string>
+    <string name="add_company_name">Company name</string>
+    <string name="add_shares">Number of shares</string>
+    <string name="add_buy_price">Buy price (USD)</string>
+    <string name="add_current_price">Current price (USD)</string>
+    <string name="add_note">Note (optional)</string>
+    <string name="add_confirm">Add to portfolio</string>
+    <string name="add_error_ticker">Enter a ticker</string>
+    <string name="add_error_company">Enter a company name</string>
+    <string name="add_error_shares">Enter a valid number of shares</string>
+    <string name="add_error_buy_price">Enter a valid buy price</string>
+    <string name="add_error_current_price">Enter a valid current price</string>
+
+    <!-- HistoryScreen -->
+    <string name="history_title">Transaction history</string>
+    <string name="history_empty">No transactions</string>
+    <string name="history_buy_label">BUY</string>
+    <string name="history_sell_label">SELL</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+    <string name="settings_language_hr">Croatian</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_theme">Theme</string>
+    <string name="settings_theme_dark">Dark</string>
+    <string name="settings_theme_light">Light</string>
+    <string name="settings_version">App version</string>
+
+    <!-- Discover -->
+    <string name="discover_title">Discover stocks</string>
+    <string name="discover_subtitle">Browse markets — coming soon</string>
+</resources>

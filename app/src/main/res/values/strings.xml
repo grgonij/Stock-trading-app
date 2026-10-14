@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/strings.xml  — HRVATSKI (default) -->
+<resources>
+    <string name="app_name">Stock Trading</string>
+
+    <!-- Bottom navigation -->
+    <string name="nav_portfolio">Portfolio</string>
+    <string name="nav_discover">Otkrij</string>
+    <string name="nav_history">Povijest</string>
+    <string name="nav_settings">Postavke</string>
+
+    <!-- HomeScreen -->
+    <string name="home_total_value">Ukupna vrijednost portfolia</string>
+    <string name="home_today">Danas</string>
+    <string name="home_my_holdings">MOJE DIONICE</string>
+    <string name="home_empty_title">Portfolio je prazan</string>
+    <string name="home_empty_subtitle">Dodaj prvu dionicu za početak</string>
+    <string name="home_add_stock">Dodaj dionicu</string>
+    <string name="home_add_content_desc">Dodaj dionicu</string>
+
+    <!-- StockDetailScreen -->
+    <string name="detail_back">Natrag</string>
+    <string name="detail_not_found">Dionica nije pronađena</string>
+    <string name="detail_shares">Dionice</string>
+    <string name="detail_avg_price">Prosj. cijena</string>
+    <string name="detail_total">Ukupno</string>
+    <string name="detail_buy">Kupi</string>
+    <string name="detail_sell">Prodaj</string>
+    <string name="detail_history_title">POVIJEST TRANSAKCIJA</string>
+    <string name="detail_no_transactions">Nema transakcija</string>
+    <string name="detail_delete">Obriši</string>
+    <string name="detail_shares_format">%.4f dionice</string>
+
+    <!-- TradeDialog -->
+    <string name="trade_buy_title">Kupi %s</string>
+    <string name="trade_sell_title">Prodaj %s</string>
+    <string name="trade_shares_label">Broj dionica</string>
+    <string name="trade_price_label">Cijena (USD)</string>
+    <string name="trade_note_label">Bilješka (opcija)</string>
+    <string name="trade_confirm_buy">Kupi</string>
+    <string name="trade_confirm_sell">Prodaj</string>
+    <string name="trade_cancel">Odustani</string>
+    <string name="trade_error_shares">Unesi ispravan broj dionica</string>
+    <string name="trade_error_price">Unesi ispravnu cijenu</string>
+
+    <!-- AddStockScreen -->
+    <string name="add_title">Dodaj dionicu</string>
+    <string name="add_subtitle">Unesi podatke o dionici</string>
+    <string name="add_ticker">Ticker (npr. AAPL)</string>
+    <string name="add_company_name">Naziv kompanije</string>
+    <string name="add_shares">Broj dionica</string>
+    <string name="add_buy_price">Cijena kupnje (USD)</string>
+    <string name="add_current_price">Trenutna cijena (USD)</string>
+    <string name="add_note">Bilješka (opcija)</string>
+    <string name="add_confirm">Dodaj u portfolio</string>
+    <string name="add_error_ticker">Unesi ticker</string>
+    <string name="add_error_company">Unesi naziv kompanije</string>
+    <string name="add_error_shares">Unesi ispravan broj dionica</string>
+    <string name="add_error_buy_price">Unesi ispravnu cijenu kupnje</string>
+    <string name="add_error_current_price">Unesi ispravnu trenutnu cijenu</string>
+
+    <!-- HistoryScreen -->
+    <string name="history_title">Povijest transakcija</string>
+    <string name="history_empty">Nema transakcija</string>
+    <string name="history_buy_label">KUPNJA</string>
+    <string name="history_sell_label">PRODAJA</string>
+
+    <!-- SettingsScreen -->
+    <string name="settings_title">Postavke</string>
+    <string name="settings_language">Jezik</string>
+    <string name="settings_language_hr">Hrvatski</string>
+    <string name="settings_language_en">Engleski</string>
+    <string name="settings_theme">Tema</string>
+    <string name="settings_theme_dark">Tamna</string>
+    <string name="settings_theme_light">Svijetla</string>
+    <string name="settings_version">Verzija aplikacije</string>
+
+    <!-- Discover -->
+    <string name="discover_title">Otkrij dionice</string>
+    <string name="discover_subtitle">Pretraži tržišta — dolazi uskoro</string>
+</resources>
